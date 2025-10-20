@@ -165,7 +165,7 @@ article {
 }
 
 @media screen and (min-widh: 768px) {
-  #skill-container {
-    grid-template-columns: 1fr 1fr;
-  }
+    #skill-container {
+      grid-template-columns: 1fr 1fr;
+    }
 }
